@@ -14,4 +14,4 @@ The dashboard aims to identify the top jobs expected to grow or decline, highlig
 - How is job growth distributed across regions worldwide?
 - What are the overall workforce trends driven by Artificial Intelligence?
 
-- Dashboard Interaction [Customer_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Customer_Dashboard.jpeg)  | [Product_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Product_Dashboard.jpeg)  
+- Dashboard Interaction [Customer_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/AI-Job-Trends-2024-2030/blob/main/Home%20Dashboard.png)  | [Product_Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Performance-Insights/blob/main/Product_Dashboard.jpeg)  
